@@ -1,0 +1,112 @@
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
+
+title = "Research"
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+
++++
+
+
+
+## Overview
+ 
+My research centers around the idea that immigrants develop portfolios of identities; I suggest that these identities are fluid, situational, and are used instrumentally. My current book manuscript explores these dynamics with a multi-method approach. I use a unique repeated cross-sectional sample survey, taking advantage of the numerous individual observations within a specific cohort and time period. I employ a hierarchical age period cohort analysis (HAPC) in the form of cross-classified models in which observations across the different surveys are nested within time periods and cohorts. The qualitative and quantitative  evidence show the way in which Latino immigrants have developed and used these portfolios of identities.  
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+</html>
+
+
+### **Peer-Reviewed Publications**
+
+<html>
+<i class="fa fa-file-pdf-o"> = Download</i>  <i class="fa fa-file-code-o"> = Replicate </i></a>
+</html>
+
+#### **Peer-Reviewed Articles**
+
+- 2019 ``Estimating Candidate Support in Voting Rights Act Cases: Comparing Iterative EI & EI-RxC Methods'' Sociological Methods and Research. (with Loren Collingwood, Kassra Oskooii, and Matt Barreto)  <a href="https://garciarios.github.io/CV/publications/SMR_2019.pdf"><i class="fa fa-file-pdf-o"> </i></a> 
+
+
+- 2018 “Direct and Indirect Xenophobic Attacks: Unpacking Portfolios of Identity” Political Behavior.  (with Francisco Pedraza and Bryan Wilcox-Archuleta)  <a href="https://garciarios.github.io/CV/publications/Garcia-Rios2018_Article_DirectAndIndirectXenophobicAtt.pdf"><i class="fa fa-file-pdf-o"> </i></a>   <a href="https://garciarios.github.io/replication/pb2018/replication_file"><i class="fa fa-file-code-o">  </i></a>
+
+- 2017 “El Peso del Voto Latino en 2016.” Foreign Affairs Latinoamérica, Vol. 17: Núm. 1, pp. 11-15 <a href="https://garciarios.github.io/CV/publications/08_Garcia-S.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+- 2016 “eiCompare: Comparing ecological inference estimates across EI and EI:RxC.” The R
+Journal. (with Loren Collingwood, Kassra Oskooii, and Matt Barreto) <a href="https://garciarios.github.io/CV/publications/rjwrapper.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+
+
+
+- 2016  "Politicized Immigrant Identity, Spanish Language Media, and Political
+Mobilization In 2012" in Jones-Correa & McCann (eds.) "Immigrants Inside Politics/Outside
+Citizenship" The Russell Sage Foundation Journal of the Social Sciences (with Matt Barreto)  <a href="https://garciarios.github.io/CV/publications/pol_immig_ID_media.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+
+- 2014  "Revisiting Latino Voting: Cross-Racial Mobilization in the 2012 Election" Political Research Quarterly. 67:4 (Sep). (with Loren Collingwood and Matt Barreto)  <a href="https://garciarios.github.io/CV/publications/crm_latino2012.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+
+- 2012  "El poder del Voto Latino en Estados Unidos en 2012" Foreign Affairs Latino América. 12:4 (Nov). (with Matt Barreto)  <a href="https://garciarios.github.io/CV/publications/poder_latino.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+
+
+- 2011  "The Politics and Policy of the Economic Determinants of Civic Participation on Latino Communities."    Journal of Public Administration and Management, 2011.   (with Stephen A. Nuño)   <a href="https://garciarios.github.io/CV/publications/garcia_nuno.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+
+#### **Edited Volume Book Chapters**
+
+
+- 2012 "Economic Policy Matters: Incentives that Drive Mexicans Northward," with Kathy Staudt, in  Baumann, Mechthild/ Lorenz, Astrid/ Rosenow, Kerstin (eds.) Crossing and Controlling Borders -  Immigration Policies and their Impact on Migrants' Journeys. Germany: Leverkusen-Opladen et al.:  Budrich UniPress, 2011, pp. 205-226.  <a href="https://garciarios.github.io/CV/publications/staudt_garcia.pdf"><i class="fa fa-file-pdf-o"> </i></a>
+
+#### **Public Writing**
+- “Here’s what the Democrats need to do to get the DREAM Act through Congress” (with
+Kassra Okooii and Hannah Walker). London School of Economics USAPP Blog
+-  “Allies in name only? Latino-only leadership on DACA may trigger implicit racial biases
+among White liberals” (with Kassra Okooii and Hannah Walker). London School of Economics
+USAPP Blog
+- “Here’s what the democrats need to do to get the DREAM Act through congress” (with
+Kassra Okooii and Hannah Walker). London School of Economics USAPP Blog
+- “No, Trump didn’t do surprisingly well among Latino voters: Let’s once and for all dispense
+with that exit-poll-based fiction” (with Tyler Reny). Daily News - January 2017
+- “Trump’s Future and the Jorge Ramos Effect” Univision - March 2016
+- “Hosting SNL Could Hurt Donald Trump With Voters” TIME - November 2015
+- “The ’Jorge Ramos Effect’ Could Hurt Donald Trump” TIME - August 2015
+
+
+#### **Articles Under Review and Working Papers**
+
+
+`Comparing the Impacts of Group Position on Vote Choice.'' (with Justin Berry and Colin Cepuran) [Revise \& Resubmit] 
+
+
+-- Con la Ayuda de Dios: A Study of Religion, Identity and  Latino Political Participation" with Kiku E Huckle, [Revise and Resubmit - Religion & Politics]
+
+-- Perennial and Situational: A Study of Immigrant Identity Formation and Transformation [Under Review]
+
+-- Is the Tea Party Splitting [the] Right Down the Middle?" with (with Christopher Parker,
+Kassra Oskooii, and Christopher Towler) [working paper]
+
+-- The DREAM Act Experiment: Exposing Covert Racism amongst White Liberals with Kassra Oskooii [Working Paper] 
+
+-- Exploring Phone and Internet Survey Mode Effects on Race Sensitive Questions. (with Kassra Oskooii), [Working Paper]
+
+-- Threatening America: The Impact of Perceived Discrimination on Latino and Muslim American Political Behavior" with Kassra Okooii, [Working Paper]
+
+
+

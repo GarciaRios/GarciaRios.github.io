@@ -1,0 +1,62 @@
++++
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Teaching"
+subtitle = ""
+widget = "custom"
+
+# Order that this section will appear in.
+weight = 60
+
++++
+
+
+
+I teach classes on Latino politics, Immigration, race and etnicity, and political methodology at Cornell University. Find a brief description of the classes and seminars I am currently taching. You can also find the full syllabus following the links to the class website.
+
+
+----------------------
+
+
+
+
+
+
+<!--
+<a href="puzzle.html" class="btn btn-primary btn-lg">Puzzle Solving</a>  <a href="puzzle.html" class="btn btn-primary btn-lg">Office Hours</a> 
+
+<a href="www.sergiogarciarios.com" class="btn btn-primary btn-lg">Latino Politics</a>
+
+<a href="www.sergiogarciarios.com" class="btn btn-primary btn-lg">Immigration and Politics</a>
+-->
+
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#puzzle" data-toggle="tab" aria-expanded="true">Puzzle Solving with Data</a></li>
+  <li class=""><a href="#latino" data-toggle="tab" aria-expanded="false">Latino Politcs as Racial Politcs</a></li>
+  <li class=""><a href="#immig" data-toggle="tab" aria-expanded="false">Immigration and Politics</a></li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active in" id="puzzle">
+************
+### Puzzle Solving with Data - GOVT 3990
+#### Course Description
+    
+In this class  we introduce basic statistical reasoning with an emphasis on problems encountered in social science research. We explore the use of statistical tools to answer scientific research questions, and investigate the pitfalls associated with the misuse of statistics. By the end of the course students will be equipped to take more advanced statistics courses, and better prepared to evaluate quantitative claims made by social scientists and the media. Topics include: measurement and summary of data, exploratory data analysis, commonly-used probability distributions, statistical inference, basic linear regression and data visualization.
+
+Visit the class website [here](http://garciarios.github.io/govt_3990/)
+  </div>
+  <div class="tab-pane fade" id="latino">
+************
+### Latino Politcs as Racial Politcs - GOVT 4283    
+#### Course Description
+This class examines the history and contemporary role of Latinos as a minority group in the U.S. political system. This course is intended as an overview of the political position of Latinos y Latinas in the United States. We place special emphasis on how Latinos became racial group which allows us to focus on political relationships between Latinos and non-Latinos as they relate to political institutions, political parties, voting coalitions, representation and public policy.
+  </div>
+  <div class="tab-pane fade" id="immig">
+************
+### Immigration and Politics - GOVT 4032
+#### Course Description
+Latinos are a greater presence in American society and political life than ever before.   Students in this course will explore themes such as immigration, political incorporation, inter-ethnic relations through both wide-ranging readings and the use of a unique dataset-- the 2006 Latino National Survey, a survey of 8,600 Latinos across 15 states, which includes questions ranging from crime and education to transnationalism and discrimination.  Students will be expected to learn and use statistical software to conduct preliminary analyses of these data, and to use these data and other resources to explore original research projects.  Prior coursework in American politics is recommended; no prior exposure to statistical software required

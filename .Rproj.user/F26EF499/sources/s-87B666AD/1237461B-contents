@@ -1,0 +1,21 @@
++++
+# Contact widget.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Contact"
+subtitle = ""
+widget = "contact"
+
+# Order that this section will appear in.
+weight = 70
+
+# Automatically link email and phone?
+autolink = true
++++
+
+- <i class="fa fa-university fa-lg"></i> [308 White Hall - Cornell University. Ithaca, NY, 14850](https://www.cornell.edu/about/maps/?loc=White%20Hall) 
+    + <a href="office_hours/">Office Hours</a>
+- <i class="fa fa-envelope fa-lg"></i> <mailto:garcia.rios@cornell.edu> 
+  
