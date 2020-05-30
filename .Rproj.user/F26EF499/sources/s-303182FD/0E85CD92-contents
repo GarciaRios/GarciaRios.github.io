@@ -46,7 +46,7 @@ subtitle = ""
   <!-- Tab panes -->
 <div class="tab-content">
 
-<div id="puzle" class="container tab-pane active">
+<div id="puzzle" class="container tab-pane active">
 
 *************
 
@@ -59,7 +59,7 @@ Visit the class website [here](http://garciarios.github.io/govt_3990/)
 </div>
 
 
-<div id="ARA" class="container tab-pane active">
+<div id="ARA" class="container tab-pane fade">
 
 *************
 
