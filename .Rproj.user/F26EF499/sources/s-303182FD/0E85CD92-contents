@@ -63,7 +63,7 @@ Visit the class website [here](http://garciarios.github.io/govt_3990/)
 
 *************
 
-### ADvanced Regression Analysis - GOVT 6029
+### Advanced Regression Analysis - GOVT 6029
 #### Course Description
     
 This course builds upon 6019, covering in detail the interpretation and estimation of multivariate linear regression models. We derive the Ordinary Least Squares estimator and its characteristics using matrix algebra and determine the conditions under which it achieves statistical optimality. We then consider the circumstances in social scientific contexts which commonly lead to assumption violations, and the detection and implications of these problems. This leads to modified regression estimators that can offer limited forms of robustness in some of these cases. Finally, we briefly introduce likelihood-based techniques that incorporate assumptions about the distribution of the response variable, focusing on logistic regression for binary dependent variables. Students are expected to produce a research paper built around a quantitative analysis that is suitable for presentation at a professional conference. Some time will be spent reviewing matrix algebra, and discussing ways to implement computations using statistical software.
