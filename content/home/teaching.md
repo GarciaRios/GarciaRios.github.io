@@ -46,7 +46,7 @@ subtitle = ""
   <!-- Tab panes -->
 <div class="tab-content">
 
-<div id="puzzle" class="container tab-pane active">
+<div id="puzzle" class="container tab-pane fade">
 
 *************
 
