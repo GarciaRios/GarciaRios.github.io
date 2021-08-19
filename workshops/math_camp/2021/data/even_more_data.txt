@@ -1,4 +1,4 @@
-case	ht	sex	age	female	youth	wt	shoe	hair
+case	ht	sex	age	female	youth	weight	shoe	hair
 51	73.1	M	36	0	0	217.4379	11.5	BLACK
 52	62.9	F	31	1	0	180.3633	7	BROWN
 53	60.8	F	28	1	0	125.1347	7	BLONDE
