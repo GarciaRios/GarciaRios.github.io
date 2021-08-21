@@ -25,11 +25,19 @@ subtitle = ""
 ***
 
 ### **Employment**
-
+`
 
 **Cornell Univeristy**
 
-2015- Present,  Assistant Professor - Government, Latino Studies.
+2020 - Present Co-Director Politics of Race, Immigration, Class and Ethnicity (PRICE) initiative
+
+2015 - Present,  Assistant Professor - Government, Latino Studies.
+
+#### **Non-Academic Appointments**
+
+**Univision News**
+
+2019-Present - Director of Polling and Data
 
 
 ### **Education**
