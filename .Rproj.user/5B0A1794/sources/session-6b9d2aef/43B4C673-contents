@@ -26,18 +26,18 @@ subtitle = ""
 
 ### **Employment**
 
-**University of Texas**
+**University of Texas, Austin**
 
-2022 - Present  Assistant Professor - LBJ School of Public Affairs 
+2022-PresentAssistant Professor - LBJ School of Public Affairs 
 
 2022-Present Associate Director - Center for the Study of Race and Democracy} 
 
-**Cornell Univeristy**
+**Cornell University**
 
 
-2020 - 2022 Co-Director Politics of Race, Immigration, Class and Ethnicity (PRICE) initiative
+2020-2022 Co-Director Politics of Race, Immigration, Class and Ethnicity (PRICE) initiative
 
-2016 - 2022,  Assistant Professor - Government, Latino Studies.
+2016-2022,  Assistant Professor - Government, Latino Studies.
 
 #### **Non-Academic Appointments**
 
