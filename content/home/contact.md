@@ -18,7 +18,7 @@ subtitle = ""
 #email_form = 2
 +++
 
-- <i class="fa fa-university fa-lg"></i> [308 White Hall - Cornell University. Ithaca, NY, 14853](https://www.cornell.edu/about/maps/?loc=White%20Hall) 
+- <i class="fa fa-university fa-lg"></i> [2315 Red River St. Austin, TX 78712-1536](https://www.cornell.edu/about/maps/?loc=White%20Hall) 
     + <a href="office_hours/">Office Hours</a>
-- <i class="fa fa-envelope fa-lg"></i> <mailto:garcia.rios@cornell.edu> 
+- <i class="fa fa-envelope fa-lg"></i> [garcia.rios@utexas.edu](mailto:garcia.rios@utexas.edu)
   

@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include Latino Politics, Race and Ethnicty, Political Psycology, Political Methotodology, and Polling.
+bio: My research interests include Latino Politics, Race and Ethnicity, Political Psychology, Political Methodology, and Polling.
 education:
   courses:
 
@@ -36,13 +36,13 @@ interests:
 - Political Behavior
 - Political Methodology
 organizations:
-- name: Cornell University
+- name: University of Texas
   url: "https://government.cornell.edu/"
-role: Assistant Professor Governement and Latina/o Studies
+role: Assistant Professor LBJ School of Public Affairs
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto: garcia.rios@cornell.edu'
+  link: 'mailto: garcia.rios@utexas.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SergioGarciaRs
@@ -64,4 +64,6 @@ I was born and raised in Durango, Mexico but I consider El Paso, TX my second ho
 My research centers around the idea that immigrants develop portfolios of identities which are fluid, situational, and are used instrumentally. I also examine voter turnout, political participation, and public opinion, especially among Latino immigrants. Other academic interests include issues related to Latinos and the Voting Rights Act, border issues and border research, and the politics of Mexico.
 
 I teach classes on immigration, race and ethnicity, Latino politics, and social science methodology. For more detailed information please visit the CV and Research sections of this website.
+
+
 

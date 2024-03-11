@@ -5,12 +5,12 @@ name = "SGR"
 light = true
 
 # Primary
-primary = "#B31B1B"
+primary = "#CC5500"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#B31B1B"
+menu_text_active = "#CC5500"
 menu_title = "#2b2b2b"
 
 # Home sections
