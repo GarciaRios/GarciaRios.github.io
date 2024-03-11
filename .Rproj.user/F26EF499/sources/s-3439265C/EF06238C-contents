@@ -1,0 +1,13 @@
+
+
+library(dplyr)
+
+glimpse(starwars)
+
+
+
+mtcars %>% 
+  count(gear, wt = )
+
+
+when multiplication doesn't equal addition
